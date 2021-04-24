@@ -1,0 +1,783 @@
+---new data----
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
+
+This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.
+
+
+💻 Code: https://github.com/datapublishings/Co...
+
+This is a hands-on course and you will practice everything you learn step-by-step. This course was created by Maxwell Armi. You can check out more of his data science videos on his YouTube channel here: https://www.youtube.com/c/AISciencesL...
+
+🎥 Learn more about Data Science with videos from freeCodeCamp's Data Science Playlist: https://www.youtube.com/playlist?list...
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Introduction to the Course and Outline
+⌨️ (0:03:53) The Basics of Programming
+⌨️ (1:11:35) Why Python
+⌨️ (1:33:09) How to Install Anaconda and Python
+⌨️ (1:37:25) How to Launch a Jupyter Notebook
+⌨️ (1:46:28) How to Code in the iPython Shell
+⌨️ (1:53:33) Variables and Operators in Python
+⌨️ (2:27:45) Booleans and Comparisons in Python
+⌨️ (2:55:37) Other Useful Python Functions
+⌨️ (3:20:04) Control Flow in Python
+⌨️ (5:11:52) Functions in Python
+⌨️ (6:41:47) Modules in Python
+⌨️ (7:30:04) Strings in Python
+⌨️ (8:23:57) Other Important Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+⌨️ (9:36:10) The NumPy Python Data Science Library
+⌨️ (11:04:12) The Pandas Python Data Science Python Library
+⌨️ (12:01:31) The Matplotlib Python Data Science Library
+⌨️ (12:09:00) Example Project: A COVID19 Trend Analysis Data Analysis Tool Built with Python Libraries
